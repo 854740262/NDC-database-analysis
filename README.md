@@ -19,7 +19,7 @@ Example: "0002-1445_e779cf1f-265c-4fed-931d-102fbaf7e14b" and "0002-3232_996cd2a
 
 - ProductNDC  Text/string: The labeler code and product code segments of the National Drug Code number
 
-Example: "0002-0800" and "0002-3231"
+Example: "0002-0800" and "0002-1434"
 
 - ProductTypeName  Text/string: type of product
 
