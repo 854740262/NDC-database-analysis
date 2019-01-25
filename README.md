@@ -99,3 +99,4 @@ Example: "20191231" and " "(The record will not expire)
 | Feature Engineering| 1|
 | Statistical Summary| 2|
 | Visualization| 2|  
+ - note: time scheduling may not be strictly followed, take it easy if it happens
